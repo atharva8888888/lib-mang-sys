@@ -1,6 +1,6 @@
 # Library Management System
 class Library:
-    users={"suyog":["123","suyog@gmail.com"]}
+    users={"atharva":["123","atharva@gmail.com"]}
     def __init__(self):
         self.ObooksList = {"Coding":["python","datastructure","c","core java","testing"],"History":["shreeman yogi","swami vivekanand","krishnaniti","pavankhind","prakash vata"],"Humour":["pune ek sathvan","batatychichal","vakroti"],"Sports":["driven:The Virat Kohli Story","captain cool","shuttler's flick"],"Poetry":["a poem a day","rumi","in other words","pluto"] } # list of books
         self.booksList = {"Coding":["python","datastructure","c","core java","testing"],"History":["shreeman yogi","swami vivekanand","krishnaniti","pavankhind","prakash vata"],"Humour":["pune ek sathvan","batatychichal","vakroti"],"Sports":["driven:The Virat Kohli Story","captain cool","shuttler's flick"],"Poetry":["a poem a day","rumi","in other words","pluto"] } # list of books
